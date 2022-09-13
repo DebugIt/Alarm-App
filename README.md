@@ -6,4 +6,4 @@ Takes value in seconds, a sound is played after the timer is over<br>
 Will be soon adding features and visuals
 <br>
 <br>
-Live at: https://creative-gelato-7cb400.netlify.app/
+Live at: https://delicate-piroshki-7169ea.netlify.app/
